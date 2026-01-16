@@ -1,6 +1,6 @@
 # Portfólio – Luana Santiago 💻
 
-Sou estudante de **Ciência da Computação**, em transição para a área de tecnologia, com formação e experiência prévia na **saúde e educação**.  
+Sou estudante de **Ciência da Computação**. Com formação e experiência prévia na **saúde e educação**, estou em transição para a área de tecnologia.
 Essa trajetória me proporcionou habilidades como **comunicação clara, organização, senso de responsabilidade e foco em resolução de problemas**, que hoje aplico no desenvolvimento de soluções tecnológicas.
 
 Tenho interesse em **produtos digitais**, especialmente aqueles que geram impacto positivo na vida das pessoas e no dia a dia de negócios.
